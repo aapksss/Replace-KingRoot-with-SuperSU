@@ -1,4 +1,5 @@
 # Replace-KingRoot-with-SuperSU
+# [Kingroot apk](https://aapks.com/apk/kingroot/)
 
 It will replace Kingroot with SuperSU  
 Download release from [releases](https://github.com/HemanthJabalpuri/Replace-KingRoot-with-SuperSU/releases) section and extract mrw folder in it to internal storage  
